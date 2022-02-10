@@ -1,2 +1,2 @@
 # ajax-pet-adoption-starter
-Here is my pet adoption agency project
+Here is my pet Adoption Agency Project
